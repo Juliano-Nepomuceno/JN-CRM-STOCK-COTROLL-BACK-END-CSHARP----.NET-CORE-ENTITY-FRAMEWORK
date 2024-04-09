@@ -1,0 +1,6 @@
+@JN_CRM_STOCK_COTROLL_BACK_END_HostAddress = http://localhost:5053
+
+GET {{JN_CRM_STOCK_COTROLL_BACK_END_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

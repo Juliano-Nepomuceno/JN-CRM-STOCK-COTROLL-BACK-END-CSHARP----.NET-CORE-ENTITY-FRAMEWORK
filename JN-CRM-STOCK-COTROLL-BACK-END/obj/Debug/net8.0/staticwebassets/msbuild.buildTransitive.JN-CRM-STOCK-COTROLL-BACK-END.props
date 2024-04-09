@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JN-CRM-STOCK-COTROLL-BACK-END.props" />
+</Project>
